@@ -170,7 +170,7 @@ const about = {
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/cover-04.jpg",
+            src: "/images/projects/project-01/cover-05.png",
             alt: "Project image",
             width: 16,
             height: 9,
